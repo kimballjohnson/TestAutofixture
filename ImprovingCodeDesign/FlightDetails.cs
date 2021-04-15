@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace ImprovingCodeDesign
 {
     public class FlightDetails
     {

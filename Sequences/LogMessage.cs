@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace Sequences
 {
     public class LogMessage
     {

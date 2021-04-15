@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Linq;
 
-namespace DemoCode
+namespace ProblemWithManualCreation
 {
     public class EmailMessageBuffer
     {

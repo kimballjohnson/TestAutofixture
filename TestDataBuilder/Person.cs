@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace TestDataBuilder
 {
     public class Person
     {

@@ -1,7 +1,7 @@
 ﻿using AutoFixture;
 using Xunit;
 
-namespace DemoCode.Tests
+namespace ImprovingCodeDesign.Tests
 {
     public class BookingShould
     {

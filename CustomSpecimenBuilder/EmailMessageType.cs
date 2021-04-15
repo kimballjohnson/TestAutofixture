@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace CustomSpecimenBuilder
 {
     public enum EmailMessageType
     {

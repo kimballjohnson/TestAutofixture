@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace DemoCode
+namespace AutoMockingAndAutoData
 {
     public class EmailMessageBuffer
     {

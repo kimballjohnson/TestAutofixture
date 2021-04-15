@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace DemoCode
+namespace AutoMockingAndAutoData
 {
     public class EmailGateway : IEmailGateway
     {

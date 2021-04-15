@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace Parameterized
 {
     public class Calculator
     {

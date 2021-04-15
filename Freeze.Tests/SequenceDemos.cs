@@ -3,7 +3,7 @@ using Xunit;
 using AutoFixture;
 using System.Collections.Generic;
 
-namespace DemoCode.Tests
+namespace Freeze.Tests
 {
     public class SequenceDemos
     {

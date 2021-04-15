@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace CustomSpecimenBuilder
 {
     public static class LogMessageCreator
     {

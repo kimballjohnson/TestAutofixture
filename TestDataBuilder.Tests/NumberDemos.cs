@@ -2,7 +2,7 @@
 using AutoFixture;
 using Xunit;
 
-namespace DemoCode.Tests
+namespace TestDataBuilder.Tests
 {
     public class NumberDemos
     {

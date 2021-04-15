@@ -4,7 +4,7 @@ using Moq;
 using System;
 using Xunit;
 
-namespace DemoCode.Tests
+namespace AutoMockingAndAutoData.Tests
 {
     public class EmailMessageBufferShould
     {

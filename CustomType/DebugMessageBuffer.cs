@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DemoCode
+namespace CustomType
 {
     public class DebugMessageBuffer
     {

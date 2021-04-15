@@ -1,4 +1,4 @@
-namespace DemoCode
+namespace RefactorSafe
 {
     public class EmailMessage
     {

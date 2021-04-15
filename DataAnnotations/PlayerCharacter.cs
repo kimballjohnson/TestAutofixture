@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace DemoCode
+namespace DataAnnotations
 {
     public class PlayerCharacter
     {

@@ -1,4 +1,4 @@
-namespace DemoCode
+namespace AutoMockingAndAutoData
 {
     public class EmailMessage
     {

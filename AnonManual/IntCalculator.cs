@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace AnonManual
 {
     public class IntCalculator
     {

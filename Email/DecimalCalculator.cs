@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace Email
 {
     public class DecimalCalculator
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace DemoCode.Tests
+namespace AnonAutoFixture.Tests
 {
     public class NumberDemos
     {

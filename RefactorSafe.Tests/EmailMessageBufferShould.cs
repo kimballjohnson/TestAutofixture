@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace DemoCode.Tests
+namespace RefactorSafe.Tests
 {
     public class EmailMessageBufferShould
     {

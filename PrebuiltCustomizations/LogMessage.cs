@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace PrebuiltCustomizations
 {
     public class LogMessage
     {

@@ -3,7 +3,7 @@ using Xunit;
 using AutoFixture;
 using System.Net.Mail;
 
-namespace DemoCode.Tests
+namespace DataAnnotations.Tests
 {
     public class EmailAddressDemos
     {

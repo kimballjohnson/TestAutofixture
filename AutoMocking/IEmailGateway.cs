@@ -1,4 +1,4 @@
-namespace DemoCode
+namespace AutoMocking
 {
     public interface IEmailGateway
     {

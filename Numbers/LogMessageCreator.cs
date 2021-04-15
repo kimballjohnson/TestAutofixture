@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace Numbers
 {
     public static class LogMessageCreator
     {

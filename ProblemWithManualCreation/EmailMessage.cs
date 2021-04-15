@@ -1,4 +1,4 @@
-namespace DemoCode
+namespace ProblemWithManualCreation
 {
     public class EmailMessage
     {

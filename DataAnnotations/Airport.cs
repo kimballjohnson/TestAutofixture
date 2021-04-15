@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace DataAnnotations
 {
     public class Airport
     {

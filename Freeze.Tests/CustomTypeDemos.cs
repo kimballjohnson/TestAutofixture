@@ -2,7 +2,7 @@
 using Xunit;
 using AutoFixture;
 
-namespace DemoCode.Tests
+namespace Freeze.Tests
 {
     public class CustomTypeDemos
     {

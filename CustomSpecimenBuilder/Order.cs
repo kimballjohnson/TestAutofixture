@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DemoCode
+namespace CustomSpecimenBuilder
 {
     public class Order
     {

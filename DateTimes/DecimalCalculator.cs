@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace DateTimes
 {
     public class DecimalCalculator
     {

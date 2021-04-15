@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace CustomType
 {
     public enum EmailMessageType
     {

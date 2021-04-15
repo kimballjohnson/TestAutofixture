@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace InitialTest
 {
     public class IntCalculator
     {

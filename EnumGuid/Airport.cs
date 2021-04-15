@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace EnumGuid
 {
     public class Airport
     {

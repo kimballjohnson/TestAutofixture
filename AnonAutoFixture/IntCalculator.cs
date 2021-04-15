@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace AnonAutoFixture
 {
     public class IntCalculator
     {

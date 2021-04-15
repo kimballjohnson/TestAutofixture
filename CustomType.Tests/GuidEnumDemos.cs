@@ -2,7 +2,7 @@
 using Xunit;
 using AutoFixture;
 
-namespace DemoCode.Tests
+namespace CustomType.Tests
 {
     public class GuidEnumDemos
     {

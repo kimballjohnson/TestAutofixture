@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DemoCode
+namespace TestDataBuilder
 {
     public class FlightDetails
     {

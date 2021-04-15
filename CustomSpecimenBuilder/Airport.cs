@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace CustomSpecimenBuilder
 {
     public class Airport
     {

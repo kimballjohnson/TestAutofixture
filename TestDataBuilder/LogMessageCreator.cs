@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace TestDataBuilder
 {
     public static class LogMessageCreator
     {

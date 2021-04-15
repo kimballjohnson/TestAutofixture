@@ -2,7 +2,7 @@
 using Xunit;
 using AutoFixture;
 
-namespace DemoCode.Tests
+namespace CustomSpecimenBuilder.Tests
 {
     public class ObjectGraphDemos
     {

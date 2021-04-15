@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace DataAnnotations
 {
     public class DecimalCalculator
     {

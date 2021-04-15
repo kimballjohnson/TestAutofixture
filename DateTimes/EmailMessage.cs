@@ -1,6 +1,6 @@
 using System;
 
-namespace DemoCode
+namespace DateTimes
 {
     public class EmailMessage
     {

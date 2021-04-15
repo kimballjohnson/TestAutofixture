@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Linq;
 
-namespace DemoCode
+namespace RefactorSafe
 {
     public class EmailMessageBuffer
     {

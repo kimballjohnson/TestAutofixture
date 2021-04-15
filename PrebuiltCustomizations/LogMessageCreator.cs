@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace PrebuiltCustomizations
 {
     public static class LogMessageCreator
     {

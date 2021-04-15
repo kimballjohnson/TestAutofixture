@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace Graph
 {
     public class LogMessage
     {

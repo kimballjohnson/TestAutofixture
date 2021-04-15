@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace DemoCode.Tests
+namespace ProblemWithManualCreation.Tests
 {
     public class EmailMessageBufferShould
     {

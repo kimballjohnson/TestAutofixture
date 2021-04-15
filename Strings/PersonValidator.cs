@@ -1,4 +1,4 @@
-﻿namespace DemoCode
+﻿namespace Strings
 {
     public class PersonValidator
     {

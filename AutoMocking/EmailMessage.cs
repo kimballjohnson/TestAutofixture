@@ -1,4 +1,4 @@
-namespace DemoCode
+namespace AutoMocking
 {
     public class EmailMessage
     {
@@ -8,7 +8,6 @@ namespace DemoCode
             MessageBody = messageBody;
             IsImportant = isImportant;
         }
-
 
         public string ToAddress { get; private set; }
         public string MessageBody { get; private set; }

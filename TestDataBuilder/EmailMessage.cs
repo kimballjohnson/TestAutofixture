@@ -1,6 +1,6 @@
 using System;
 
-namespace DemoCode
+namespace TestDataBuilder
 {
     public class EmailMessage
     {

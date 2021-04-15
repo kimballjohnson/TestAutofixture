@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoCode
+namespace EnumGuid
 {
     public static class LogMessageCreator
     {

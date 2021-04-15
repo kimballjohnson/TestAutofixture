@@ -1,7 +1,7 @@
 ﻿using Xunit;
 
 
-namespace DemoCode.Tests
+namespace Parameterized.Tests
 {
     public class CalculatorShould
     {

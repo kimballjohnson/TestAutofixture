@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace DemoCode
+namespace Freeze
 {
     public class PlayerCharacter
     {
